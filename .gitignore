@@ -10,4 +10,4 @@ yarn.lock
 LICENSE
 *.iml
 *.xml
-themes
+# themes
