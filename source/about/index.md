@@ -2,5 +2,4 @@
 type: about
 cover: [http://cdn.janescott.cn/images/jane/home_cover.jpg]
 ---
-123
-
+![resume](http://cdn.janescott.cn/resume.jpg)
