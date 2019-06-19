@@ -7,8 +7,8 @@ tags:
 	- [HNB]
 categories:
 	- [Work]
-card: [http://cdn.janescott.cn/images/banner/cover_banner.png]
-cover: [http://cdn.janescott.cn/images/banner/cover_banner.png]
+card: [http://cdn.janescott.cn/images/jane/hnb/hnb_promotion_cover.png]
+cover: [http://cdn.janescott.cn/images/jane/hnb/hnb_promotion_top.png]
 ---
 
 ![banner_01](http://cdn.janescott.cn/images/banner/banner01.png)
